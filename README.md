@@ -6,3 +6,7 @@ You'll find a description book here:
 
 https://www.amazon.com/Unix-Shell-Programming-Tools/dp/0079137903
 
+Work
+====
+24 June - Page 6
+
